@@ -1,3 +1,3 @@
 # pl-training
 
-Hello World
+hello world
